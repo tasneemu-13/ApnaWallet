@@ -45,7 +45,7 @@ Developed as a Mini-Project submission, focusing on modern Android architecture,
 <img width="309" height="688" alt="image" src="https://github.com/user-attachments/assets/8f0f524e-7749-4447-92bf-bc08cf2d676c" />
 
 
-## 🧠 Technical Highlights (For Viva Reference)
+## 🧠 Technical Highlights 
 1. **State Hoisting:** Implemented advanced state hoisting to allow multiple screens (Dashboard, Wallets, Profile) to share and manipulate the same data instances simultaneously.
 2. **Regex Parsing:** Built resilient logic to extract exact financial integers from standard banking push notifications, bypassing cluttered text.
 3. **Canvas Drawing:** Built the analytics dashboard entirely from scratch using mathematical geometry (`drawArc`, `drawLine`) to calculate exact sweep angles based on real user data percentages.
